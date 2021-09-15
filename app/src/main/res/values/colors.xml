@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber_200">#FF003B</color>
+    <color name="amber_500">#7C001D</color>
+    <color name="amber_700">#7C001D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#201F1F</color>
+    <color name="white">#EFBECA</color>
+</resources>
